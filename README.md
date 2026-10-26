@@ -13,4 +13,4 @@ Este repositorio contiene la documentación técnica del proyecto de software pa
 - Tablero de Gestión (Jira / GitHub Projects): 
 
 ## -Declaración de Uso de IA
-En el desarrollo de este trabajo se utilizó Inteligencia Artificial Generativa (ChatGPT) como asistente para la estructuración del diagrama BPMN, la redacción de las Historias de Usuario y la corrección de estilo. Todo el contenido generado fue revisado, adaptado y validado críticamente por la alumna, quien asume la responsabilidad final de la veracidad y coherencia del proyecto.
+En el desarrollo de este trabajo se utilizó Inteligencia Artificial Generativa (ChatGPT) como asistente para la estructuración del diagrama BPMN.
