@@ -1,7 +1,7 @@
 TRABAJO PRÁCTICO INTEGRADOR Y PROGRESIVO (TPI)
 ENTREGA N.º 4: PROCESOS, TRABAJO COLABORATIVO Y CONTROL INTEGRADOR
 Proyecto: Módulo de Ventas e Inventario - Kiosco "Las 24 Horas"
-Alumna: Katiana Damaris Martinez
+Alumna (Unica participante): Katiana Damaris Martinez
 
 
 -Descripción del Sistema
