@@ -1,14 +1,16 @@
-TRABAJO PRÁCTICO INTEGRADOR Y PROGRESIVO (TPI)
+# TRABAJO PRÁCTICO INTEGRADOR Y PROGRESIVO (TPI)
 ENTREGA N.º 4: PROCESOS, TRABAJO COLABORATIVO Y CONTROL INTEGRADOR
-Proyecto: Módulo de Ventas e Inventario - Kiosco "Las 24 Horas"
-Alumna (Unica participante): Katiana Damaris Martinez
+
+- Proyecto: Módulo de Ventas e Inventario - Kiosco "Las 24 Horas"
+
+- Alumna (Unica participante): Katiana Damaris Martinez
 
 
--Descripción del Sistema
+## -Descripción del Sistema
 Este repositorio contiene la documentación técnica del proyecto de software para el Kiosco "Las 24 Horas". El sistema tiene como objetivo registrar las ventas, actualizar el stock en tiempo real y generar informes de demanda por producto, día y franja horaria, permitiendo al dueño tomar decisiones basadas en datos y no en la intuición.
 
--Enlaces del Proyecto:
+## -Enlaces del Proyecto:
 - Tablero de Gestión (Jira / GitHub Projects): 
 
--Declaración de Uso de IA
+## -Declaración de Uso de IA
 En el desarrollo de este trabajo se utilizó Inteligencia Artificial Generativa (ChatGPT) como asistente para la estructuración del diagrama BPMN, la redacción de las Historias de Usuario y la corrección de estilo. Todo el contenido generado fue revisado, adaptado y validado críticamente por la alumna, quien asume la responsabilidad final de la veracidad y coherencia del proyecto.
