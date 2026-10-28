@@ -11,6 +11,7 @@ Este repositorio contiene la documentación técnica del proyecto de software pa
 
 ## -Enlaces del Proyecto:
 - Tablero de Gestión (GitHub Projects): https://github.com/users/Dubi123AP/projects/2/views/1
-- BPMN: https://github.com/Dubi123AP/Entrega-TPI-N4/blob/main/BPMN.png
+- BPMN: https://github.com/Dubi123AP/Entrega-TPI-N4/blob/main/BPMN.png](https://github.com/Dubi123AP/Entrega-TPI-N4/blob/main/Aprobado%20por%20la%20prtofe.png
+  
 ## -Declaración de Uso de IA
 En el desarrollo de este trabajo se utilizó Inteligencia Artificial Generativa (ChatGPT) como asistente para la estructuración del diagrama BPMN.
