@@ -12,7 +12,7 @@ Este repositorio contiene la documentación técnica del proyecto de software pa
 ## -Enlaces del Proyecto:
 - Tablero de Gestión (GitHub Projects): https://github.com/users/Dubi123AP/projects/2/views/1
   
-- BPMN: https://github.com/Dubi123AP/Entrega-TPI-N4/blob/main/Aprobado%20por%20la%20prtofe.png
+- BPMN: https://github.com/Dubi123AP/Entrega-TPI-N4/blob/main/Ultimo%20BPMN_El%20Difinitivo.png
 
 ## Indicadores de control y Estándares de desempeño
 
@@ -35,7 +35,7 @@ IA (ChatGPT):
 
 **(Correccione humana):** La IA me envio una imagen de BPMN algo generica y que le faltaban varias cosas de mi propuesta asi que tuve que utilizar bpmn.io https://bpmn.io/ para graficarlo yo misma, ya que cada vez que le pedia un cambio la IA me generaba cosas sin sentido: lineas que tenian que ser de mensaje viendose como las de secuencia, me borraba cosas cada vez que le pedía agregar algo o cambiaba los nombres, de repente algunas tareas pasaban a invadir otros lanes, etc.
 
-El BPMN que yo hice: https://github.com/Dubi123AP/Entrega-TPI-N4/blob/main/Aprobado%20por%20la%20prtofe.png
+El BPMN que yo hice: https://github.com/Dubi123AP/Entrega-TPI-N4/blob/main/Ultimo%20BPMN_El%20Difinitivo.png
 
 - Usuario (yo):
 >-"Gracias, me dirias que opinas de mi bpmn? (Adjunte imagen de mi BPMN) y tendrias algunas sugerencias para que agregue? sentis que le falta algo?"
