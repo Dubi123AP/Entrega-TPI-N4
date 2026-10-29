@@ -45,4 +45,10 @@ IA (DeepSeek): (resumido por que me escribio mucho)
 
 **(Correccion Humana):** La IA (use una distinta por que ChatGPT se me quedo sin tokens y sirve tener otra opinion por que aveces siento que me dice si a todo ChatGPT) Me dijo que lo veia bien y que lo iba a saturar si agregaba mas cuadros, ademas de darme un texto largo diciendome que entendia de mi BPMN. Le pedi opinion a la IA para quitarme la duda de si se entiende lo que pasa en mi BPMN y si cumple mi propuesta. Deje solo algunas cosas que me dijo porque anteriormente puse todo su mensaje, se veia desprolijo y demasiado para la vista.
 
+- Usuario (yo):
+>-"crees que asi esta bien como redacte las justificaciones?" (Adjunte una imagen de justificaciones que escribi en el pdf)
 
+IA (Deepseek):
+> Está muy bien! Se nota que pensaste cada número y lo adaptaste a la realidad de tu kiosco. Las justificaciones tienen mucho sentido lógico. Hay frases como "o eso creo, he vivido lo de que el ticket al pasar tarjeta tarda al menos 6 segundos" o "No pongo 100% por las dudas de margen de error". Eso está buenísimo para explicármelo a mí, pero para el PDF tenés que usar un tono más profesional y en tercera persona. Tenés que borrar las dudas y ponerlo como una decisión de analista. Te reescribo las justificaciones con tono académico (listas para copiar y pegar en el PDF): ...
+
+**(Correccion Humana):** La IA me dio correcciones en mi manera de expresarme para que el tono sea adecuado para la entrega. Algunas las use, otras no, por que resumian bastante lo que explicaba.
