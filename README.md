@@ -11,10 +11,24 @@ Este repositorio contiene la documentación técnica del proyecto de software pa
 
 ## -Enlaces del Proyecto:
 - Tablero de Gestión (GitHub Projects): https://github.com/users/Dubi123AP/projects/2/views/1
-- BPMN: https://github.com/Dubi123AP/Entrega-TPI-N4/blob/main/Aprobado%20por%20la%20prtofe.png
   
+- BPMN: https://github.com/Dubi123AP/Entrega-TPI-N4/blob/main/Aprobado%20por%20la%20prtofe.png
+
+## Indicadores de control y Estándares de desempeño
+
+| Indicador de Control | Estándar de Desempeño | Método de Auditoría |
+| :--- | :--- | :--- |
+| **1. Precisión de Stock** | 99.9% de exactitud. | Inventario físico mensual. |
+| **2. Tiempo de Respuesta** | Menos de 2 segundos. | Pruebas de rendimiento. |
+| **3. Reducción de Pérdidas** | Reducir 30% el tiempo de cierre. | Comparar tiempos de caja. |
+| **4. Disponibilidad** | 99% de disponibilidad. | Monitoreo automático. |
+
 ## -Declaración de Uso de IA
 En el desarrollo de este trabajo se utilizó Inteligencia Artificial Generativa (ChatGPT) como asistente para consultas del diagrama BPMN la redacción de las Historias de Usuario y la corrección de estilo. Todo el contenido generado fue revisado, adaptado y validado críticamente por la alumna, quien asume la responsabilidad final de la veracidad y coherencia del proyecto
+
+## Prompts utilizados para estructurar el trabajo:
+- Usuario (yo):
+>-"hola me ayudas a visualizar como seria hacer el bpmn de mi tp?? (adjunto PDF donde se explicaba mi propuesta) es un Modulo de gestion de ventas y control de Stock para un kiosco pequenio"
 
 ## Prompts utilizados para estructurar el trabajo:
 - Usuario (yo):
